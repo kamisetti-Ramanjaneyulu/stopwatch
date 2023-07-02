@@ -19,5 +19,9 @@ we convert time(ms) into angles. based on those angle we rotate the angle of abo
 
 
 demo-video-link:
-https://github.com/kamisetti-Ramanjaneyulu/stopwatch/assets/115609577/06babb6c-56d6-4807-9dba-9ec1a14c302e
+
+
+
+
+https://github.com/kamisetti-Ramanjaneyulu/stopwatch/assets/115609577/e04f1c1c-570a-4fd2-847c-14d26e35c8f4
 
